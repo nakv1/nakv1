@@ -1,8 +1,13 @@
 <h1 align="center">Привет, я nak 👋</h1>
 
 <p align="center">
-  Делаю <b>NakClean</b> - честный чистильщик и оптимизатор Windows.
+  Студент по информационной безопасности.<br>
+  Пишу <b>NakClean</b> - честный чистильщик и оптимизатор Windows на C# / .NET.
 </p>
+
+<p align="center"><sub>
+  Information security student · building <b>NakClean</b> - an honest Windows cleaner &amp; optimizer (C# / .NET).
+</sub></p>
 
 <div align="center">
 
@@ -14,8 +19,6 @@
 </div>
 
 ---
-
-### 🐍 Contribution snake
 
 <div align="center">
 
