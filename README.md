@@ -1,4 +1,8 @@
+<h1 align="center">Привет, я nak 👋</h1>
+
 <p align="center">Студент Информационно-аналитические системы безопасности, пишу программы на языках: Java/python/C# насколько это возможно😅</p>
+
+<p align="center"><sub>Student of Information-Analytical Security Systems · I write programs in Java / Python / C#, as much as I can 😅</sub></p>
 
 <div align="center">
 
